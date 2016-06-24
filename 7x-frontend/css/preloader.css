@@ -49,8 +49,8 @@ Enjoy responsibly!
     border: 0px solid transparent;
     border-top-color: #fff;
 
-    -webkit-animation: spin 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
-    animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+    -webkit-animation: flip 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+    animation: flip 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
 
     z-index: 1001;
 }
