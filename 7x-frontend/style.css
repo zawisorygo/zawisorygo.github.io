@@ -1542,6 +1542,15 @@ section#footer {
     min-height: 240px;
 }
 
+section.bnr-area {
+    background-color: #004780;
+    color: #fff;
+}
+
+section.bnr-area h2 {
+    text-transform: uppercase;
+}
+
 /*==============gmkmobqur===============*/
 /* 24" large Screens */
 @media only screen and (max-width : 1920px) {	}
