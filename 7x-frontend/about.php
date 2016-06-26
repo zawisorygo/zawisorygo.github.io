@@ -12,7 +12,7 @@
 	<section class="welcome-area text-center p50">
 		<div class="container">
 			
-			<div class="hed"><h2>Welcome to 7x production</h2>
+			<div class="hed"><h2>7x Production Since 2003</h2>
 					<span><img src="images/hed-line.png" alt="" /></span>
 			</div>
 			
